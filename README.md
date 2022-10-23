@@ -1,7 +1,7 @@
 ## <h1>Bem-vindo(a) ao meu perfil! 😎😁 </h1>
 
 <div align="center">
-<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birajnior&theme=tokyonight"/> 
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birajnior&theme=tokyonight"/> 
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=birajnior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
 
