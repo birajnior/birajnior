@@ -29,7 +29,7 @@
   <a href = "mailto:jb.dev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/ubiratanbernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://www.tiktok.com/@jbdeev" target="_blank"><img src="https://img.shields.io/badge/Tiktok-000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>   
-  <a href="https://api.whatsapp.com/send?phone=5511970839925&text=Ol%C3%A1!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%3b5998?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://contate.me/ubiratan-junior" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%3b5998?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <p> <img src="https://komarev.com/ghpvc/?username=birajnior&color=blueviolet" alt="Profile views" /> </p>
 </div>
  
