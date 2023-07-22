@@ -1,13 +1,11 @@
 ## <h1>Bem-vindo(a) ao meu perfil! 😎😁 </h1>
 
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birajnior&theme=tokyonight"/> 
+<img align="rigth" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birajnior&theme=tokyonight"/> 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=birajnior&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="birajnior" />
+<img align="left" height="400em" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=birajnior&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=birajnior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
-
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=birajnior&theme=tokyonight&hide_border=true"/>
+<img align="rigth" height="200em" src="https://github-readme-stats.vercel.app/api?username=birajnior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
 
 ##
 </div>
