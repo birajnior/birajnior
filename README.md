@@ -3,7 +3,7 @@
 <div align="center">
 <img align="rigth" height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birajnior&theme=tokyonight"/> 
 
-<img align="left" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=birajnior&langs_count=7&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<img align="left" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=birajnior&langs_count=9&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 
 <img align="rigth" height="150em" src="https://github-readme-stats.vercel.app/api?username=birajnior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
 
